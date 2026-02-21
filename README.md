@@ -27,7 +27,7 @@ To report errors, please contact <siao@ucdavis.edu>. Comments and suggestions ar
 
 ## Citation
 
-The Full paper can be found in "[End-to-End Deep Learning for Predicting Metric Space-Valued Outputs]([https://arxiv.org/abs/2509.23544](https://arxiv.org/abs/2509.23544))".
+The Full paper can be found in "[End-to-End Deep Learning for Predicting Metric Space-Valued Outputs]([https://arxiv.org/abs/2509.23544](https://arxiv.org/abs/2509.23544)".
 
 ```         
 @article{zhou2025e2m,
