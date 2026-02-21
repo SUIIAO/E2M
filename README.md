@@ -2,38 +2,6 @@
 
 The code for the paper 'E2M: End-to-End Deep Learning for Predicting Metric Space-Valued Outputs'.
 
-### Supporting software requirements
-
-R version 4.4.0
-
-### Libraries and dependencies used by the code
-
-R packages to run E2M and the comparative methods include:
-
-* reticulate v 1.38.0
-* dplyr v 1.1.4
-* tidyverse v 2.0.0
-* frechet v 1.1.4
-* fdadensity v 0.1.2
-* KScorrect v 1.4.0
-* EnvStats v 3.0.0
-* Matrix v 1.7-0
-* geigen v 2.3
-* osqp v 0.6.3.3
-* MASS v 7.3-60.2
-* matrixcalc v 1.0-6
-* shapes 1.2.7
-* trust v 0.1-8
-* pracma v 2.4.4
-* purrr v 1.0.2
-* manifold v 0.1.1
-* foreach v 1.5.2
-* doRNG v 1.8.6
-* doParallel v 1.0.17
-* stats v 4.4.0
-* vegan v 2.6-6.1
-* ggplot2 v 3.5.1
-
 ### Folder Structure
 
 * `./code/E2M` code for all functions used in the paper.
