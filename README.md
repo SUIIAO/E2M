@@ -21,3 +21,6 @@ The code for the paper 'E2M: End-to-End Deep Learning for Predicting Metric Spac
 * `./Simulation/SPDSimu.R` code to reproduce simulations in Section 6.2 for SPD matrix data with power metric.
 * `./Simulation/SPDSimu_BW.R` code to reproduce simulations in Section 6.2 for SPD matrix data with Bures-Wasserstein metric.
 
+## Report Errors
+
+To report errors, please contact <siao@ucdavis.edu>. Comments and suggestions are welcome.
