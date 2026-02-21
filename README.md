@@ -24,3 +24,16 @@ The code for the paper 'E2M: End-to-End Deep Learning for Predicting Metric Spac
 ## Report Errors
 
 To report errors, please contact <siao@ucdavis.edu>. Comments and suggestions are welcome.
+
+## Citation
+
+The Full paper can be found in "[End-to-End Deep Learning for Predicting Metric Space-Valued Outputs]([https://arxiv.org/abs/2509.23544](https://arxiv.org/abs/2509.23544))".
+
+```         
+@article{zhou2025e2m,
+  title={End-to-End Deep Learning for Predicting Metric Space-Valued Outputs},
+  author={Zhou, Yidong and Iao, Su I and M{\"u}ller, Hans-Georg},
+  journal={arXiv preprint arXiv:2509.23544},
+  year={2025}
+}
+```
